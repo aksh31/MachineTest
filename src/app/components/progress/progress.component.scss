@@ -1,0 +1,19 @@
+
+
+.example-section {
+    display: flex;
+    align-content: center;
+    align-items: center;
+    height: 60px;
+}
+
+.example-margin {
+    margin: 0 10px;
+    border-radius: 5px !important;
+    height: 6px !important;
+}
+
+mat-progress-bar{
+    background-color: #00a99d !important;
+    // color: #00a99d !important;
+}
